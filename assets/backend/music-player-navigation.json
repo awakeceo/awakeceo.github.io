@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Треки",
+    "route": "/examples/player/tracks"
+  },
+  {
+    "name": "Альбомы",
+    "route": "/examples/player/albums"
+  },
+  {
+    "name": "Исполнители",
+    "route": "/examples/player/artists"
+  }
+]

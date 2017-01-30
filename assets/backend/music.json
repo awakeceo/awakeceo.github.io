@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "Ocean Drive",
+    "artist": "Duke Dumont",
+    "artist_genre": "Dance",
+    "artist_cover": "//im0-tub-ru.yandex.net/i?id=b8bfdead36fb5caf2f46650e11df7231&n=3&w=300&h=300&q=100",
+    "album": "Blase Boys Club",
+    "album_cover": "//avatars.yandex.net/get-music-content/28589/d7342ed4.a.2988395-1/200x200",
+    "album_artist": "Duke Dumont",
+    "album_year": 2016,
+    "link": "/assets/music/1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Абсолютно всё",
+    "artist": "Мот feat. Бьянка",
+    "artist_genre": "Рэп, хип-хоп",
+    "artist_cover": "//avatars.yandex.net/get-music-content/33216/f960f99a.p.166300/s200x200",
+    "album": "Золотой граммофон 2016",
+    "album_cover": "//avatars.yandex.net/get-music-content/34131/34c12c7c.a.3032576-1/200x200",
+    "album_artist": "сборник",
+    "album_year": 2016,
+    "link": "/assets/music/2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Грею счастье",
+    "artist": "Ёлка",
+    "artist_cover": "//avatars.yandex.net/get-music-content/33216/b6ba8c59.p.219036/s200x200",
+    "artist_genre": "Поп",
+    "album": "Золотой граммофон 2016",
+    "album_cover": "//avatars.yandex.net/get-music-content/34131/34c12c7c.a.3032576-1/200x200",
+    "album_artist": "сборник",
+    "album_year": 2016,
+    "link": "/assets/music/3.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Еще до старта далеко",
+    "artist": "Тимати & L'One feat. Павел Мурашов",
+    "artist_cover": "//avatars.yandex.net/get-music-content/32236/9d33a9e7.p.168857/s200x200",
+    "artist_genre": "Рэп, хип-хоп",
+    "album": "Золотой граммофон 2016",
+    "album_cover": "//avatars.yandex.net/get-music-content/49707/d38b1966.a.2831539-2/200x200",
+    "album_artist": "Тимати & L'One feat. Павел Мурашов",
+    "album_year": 2015,
+    "link": "/assets/music/4.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Мир, где нет меня",
+    "artist": "Tracktor Bowling",
+    "artist_cover": "//avatars.yandex.net/get-music-content/49707/176fe011.p.209193/s400x400",
+    "artist_genre": "Альтернатива, металл",
+    "album": "Бесконечность",
+    "album_cover": "//avatars.yandex.net/get-music-content/38044/9a215b9f.a.2961480-3/200x200",
+    "album_artist": "Tracktor Bowling",
+    "album_year": 2015,
+    "link": "/assets/music/5.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Мама",
+    "artist": "Louna",
+    "artist_genre": "Альтернатива, металл",
+    "artist_cover": "//avatars.yandex.net/get-music-content/32236/621ddd5d.p.425796/s400x400",
+    "album": "Время Х",
+    "album_cover": "//avatars.yandex.net/get-music-content/42108/9d328768.a.415724-1/200x200",
+    "album_artist": "Louna",
+    "album_year": 2012,
+    "link": "/assets/music/6.mp3"
+  },
+  {
+  "id": 7,
+  "title": "Сердца из стали",
+  "artist": "Louna",
+    "artist_genre": "Альтернатива, металл",
+    "artist_cover": "//avatars.yandex.net/get-music-content/32236/621ddd5d.p.425796/s400x400",
+  "album": "Дивный новый мир",
+  "album_cover": "//avatars.yandex.net/get-music-content/38044/483d947a.a.3923558-2/200x200",
+  "album_artist": "Louna",
+  "album_year": 2016,
+  "link": "/assets/music/7.mp3"
+  },
+  {
+  "id": 8,
+  "title": "Wide Awake (Red Mix)",
+  "artist": "Eric Saade",
+    "artist_genre": "Dance",
+    "artist_cover": "//im3-tub-ru.yandex.net/i?id=3e73b669c07c5c1e349af4127fbd0e87&n=3&w=300&h=300&q=100",
+  "album": "Winter Music 2017",
+  "album_cover": "//avatars.yandex.net/get-music-content/114728/9d173859.a.4004002-4/200x200",
+  "album_artist": "сборник",
+  "album_year": 2016,
+  "link": "/assets/music/8.mp3"
+  },
+  {
+    "id": 9,
+    "title": "ЧК (Чистый Кайф)",
+    "artist": "Баста",
+    "artist_genre": "Рэп, хип-хоп",
+    "artist_cover": "//avatars.yandex.net/get-music-content/32236/9dd237d5.p.41191/s400x400",
+    "album": "Баста 4",
+    "album_cover": "//avatars.yandex.net/get-music-content/49707/8041f75c.a.1113928-1/200x200",
+    "album_artist": "Баста",
+    "album_year": 2013,
+    "link": "/assets/music/9.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Вселенная",
+    "artist": "Баста",
+    "artist_genre": "Рэп, хип-хоп",
+    "artist_cover": "//avatars.yandex.net/get-music-content/32236/9dd237d5.p.41191/s400x400",
+    "album": "Баста 4",
+    "album_cover": "//avatars.yandex.net/get-music-content/49707/8041f75c.a.1113928-1/200x200",
+    "album_artist": "Баста",
+    "album_year": 2013,
+    "link": "/assets/music/10.mp3"
+  }
+
+]
